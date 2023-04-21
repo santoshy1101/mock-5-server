@@ -1,0 +1,15 @@
+{
+	"books": [
+	  {
+		"image_url": "https://m.media-amazon.com/images/I/71tLjRH2dBL._UX679_.jpg",
+		"book_name": "Harry Potter and the Philosopher's Stone",
+		"author": "J. K. Rowling",
+		"genre": "Fiction",
+		"edition": "2021",
+		"publisher": "Bloomsbury",
+		"cost": "13000",
+		"borrowed": false,
+		"id": 1
+	  }
+	]
+  }
